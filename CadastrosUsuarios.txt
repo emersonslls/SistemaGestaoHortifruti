@@ -1,0 +1,3 @@
+1;Emerson Santos Sales;Emerson;Sales15;Admin;11/11/2024;22:54
+2;Kauan Monteiro Rodrigues;Kauan;Kauan17;CAIXA;11/11/2024;22:54
+3;Joao Augusto da Costa Silva;Joao;Joao26;ESTOQUISTA;11/11/2024;17:21
