@@ -1752,7 +1752,7 @@ void SalvarProdutos(ListadeProdutos produtos[], int qtdProdutos)
     }
 
     fclose(arquivo);
-    printf("Produtos salvos com sucesso no arquivo 'produtos.txt'.\n");
+   /* printf("Produtos salvos com sucesso no arquivo 'produtos.txt'.\n");*/
 }
 int CarregarProdutos(ListadeProdutos produtos[], int *qtdProdutos)
 {

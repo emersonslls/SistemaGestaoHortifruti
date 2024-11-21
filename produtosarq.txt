@@ -1,6 +1,34 @@
-1;Teste;111,00;11,00;0,00;0,00;Frutas
-2;teste;2,00;2,00;0,00;0,00;Verduras
-3;sss;2,00;2,00;0,00;0,00;Legumes
-4;ssss;2,00;0,00;3,00;0,00;Líquidos
-5;ssww;2,00;6,00;0,00;0,00;Grãos e Cereais
-6;ll;555,00;0,00;0,00;22,00;Outros
+1;Morango;15,00;15,00;0,00;0,00;Frutas
+2;Melao;12,00;12,00;0,00;0,00;Frutas
+3;Shampoo;12,00;0,00;0,00;20,00;Outros
+4;Chicoria;3,50;7,00;0,00;0,00;Verduras
+5;Manga;5,00;18,00;0,00;0,00;Frutas
+6;Rucula;2,80;8,99;0,00;0,00;Verduras
+7;Escarola;5,00;17,00;0,00;0,00;Verduras
+8;Pera;3,00;12,00;0,00;0,00;Frutas
+9;Centeio;6,00;11,99;0,00;0,00;Grãos e Cereais
+10;Salsa;3,00;9,00;0,00;0,00;Verduras
+11;Couve;2,50;2,50;0,00;0,00;Verduras
+12;Maca;1,50;5,00;0,00;0,00;Frutas
+13;Lentilha;18,00;18,00;0,00;0,00;Grãos e Cereais
+14;Acelga;7,00;7,00;0,00;0,00;Verduras
+15;Espinafre;7,00;7,00;0,00;0,00;Verduras
+16;Escova de dente;6,00;0,00;0,00;14,00;Outros
+17;Mamao;5,00;10,00;0,00;0,00;Frutas
+18;Pasta de dente;5,00;0,00;0,00;16,00;Outros
+19;Limao;5,00;16,00;0,00;0,00;Frutas
+20;Sabao em po;20,00;0,00;0,00;20,00;Outros
+21;Milho;10,00;65,00;0,00;0,00;Grãos e Cereais
+22;Suco de uva;3,00;0,00;15,00;0,00;Líquidos
+23;Agriao;5,00;5,00;0,00;0,00;Verduras
+24;Feijao;10,00;10,00;0,00;0,00;Grãos e Cereais
+25;Sabonete;6,00;0,00;0,00;20,00;Outros
+26;Abobora;10,00;10,00;0,00;0,00;Legumes
+27;Suco de limao;3,00;0,00;12,00;0,00;Líquidos
+28;Almeiraao;8,50;8,50;0,00;0,00;Verduras
+29;Nabo;7,00;20,00;0,00;0,00;Legumes
+30;Leite de coco;15,00;0,00;40,00;0,00;Líquidos
+31;Cebolinha;3,00;9,00;0,00;0,00;Verduras
+32;Melancia;15,00;30,00;0,00;0,00;Frutas
+33;Ervilha;21,00;21,00;0,00;0,00;Legumes
+34;Aveia;9,99;9,99;0,00;0,00;Grãos e Cereais
